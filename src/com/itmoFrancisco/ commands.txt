@@ -1,0 +1,13 @@
+show
+info
+clear
+save
+print_character
+remove_key 1
+execute_script hola
+replace_if_greater 1 9
+remove_greater_key 1
+count_by_character  EVIL
+filter_less_than_killer 8
+insert
+update 1
